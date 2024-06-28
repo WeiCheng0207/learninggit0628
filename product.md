@@ -1,3 +1,4 @@
 tv
 telephone
 refrigerator
+tablet
