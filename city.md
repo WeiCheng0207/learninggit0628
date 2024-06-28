@@ -1,4 +1,0 @@
-hsinchu
-taipei
-taichung
-tainan
